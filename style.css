@@ -1,0 +1,32 @@
+fieldset { 
+	width: 600px;
+	height: 600px;
+	padding: 20px; 
+	display: block;
+	margin:0 auto;
+}
+
+#gamefield{
+	width: 600px;
+}
+
+#gamefield a{
+	width: 146px;
+	height: 146px; 
+	float: left;
+	display: block;
+	cursor: pointer;
+	margin: 1px;
+	border: 1px solid #dfdfdf;
+}
+
+#gamefield .color1 {background-color: #006600}
+#gamefield .color2 {background-color: #003399}
+#gamefield .color3 {background-color: #660066}
+#gamefield .color4 {background-color: #CC0000}
+#gamefield .color5 {background-color: #FFA500}
+#gamefield .color6 {background-color: #FF66FF}
+#gamefield .color7 {background-color: #66CCFF}
+#gamefield .color8 {background-color: #333333}
+
+#gamefield .hidden {background-color: #FFFFFF}
